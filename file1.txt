@@ -1,0 +1,2 @@
+This is a file created on the dev branch
+Now this file will be moved to the stg
